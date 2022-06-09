@@ -1,0 +1,12 @@
+{
+    "name": "amu/amplec",
+    "description": "this is a php framework",
+    "type": "project",
+    "license": "Open Source",
+    "authors": [
+        {
+            "name": "amit shashikant kasabe"
+        }
+    ],
+    "require": {}
+}
